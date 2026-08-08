@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0168-excel-sheet-column-title) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
