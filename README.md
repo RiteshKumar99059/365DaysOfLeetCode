@@ -18,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0162-find-peak-element) |
+| [1480-running-sum-of-1d-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0162-find-peak-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
