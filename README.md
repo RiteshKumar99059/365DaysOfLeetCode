@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
