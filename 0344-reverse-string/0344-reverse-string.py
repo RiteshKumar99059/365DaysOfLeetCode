@@ -1,11 +1,15 @@
 class Solution:
     def reverseString(self, s: List[str]) -> None:
-        left,right=0,len(s)-1
+        stack = []
 
-        while left<right:
-            s[left],s[right]=s[right],s[left]
-           
-            left+=1
-            right-=1
+        for i in s:
+            stack.append(i)
         
+        for i in range(len(s)):
+            s[i] = stack.pop()
+
+        return s
+
+
+
         
