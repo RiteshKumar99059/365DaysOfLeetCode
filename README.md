@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0168-excel-sheet-column-title) |
+| [2235-add-two-integers](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2235-add-two-integers) |
 ## Array
 |  |
 | ------- |
