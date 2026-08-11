@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +49,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
