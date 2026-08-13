@@ -6,7 +6,13 @@ class Solution:
         #     else:
         #         return False
         #         s.remove(i)
-        a = sorted(s)
-        b = sorted(t)
 
-        return a == b
+        # a = sorted(s)
+        # b = sorted(t)
+
+        # return a == b
+
+        return sorted(s) == sorted(t)
+
+
+
