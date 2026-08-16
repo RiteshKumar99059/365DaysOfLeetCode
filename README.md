@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0392-is-subsequence) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0168-excel-sheet-column-title](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0344-reverse-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0392-is-subsequence) |
 ## Recursion
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
