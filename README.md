@@ -98,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
