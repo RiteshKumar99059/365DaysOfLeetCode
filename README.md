@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0392-is-subsequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
@@ -124,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0112-path-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
