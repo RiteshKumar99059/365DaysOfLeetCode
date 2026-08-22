@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
