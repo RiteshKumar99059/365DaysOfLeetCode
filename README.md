@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0844-backspace-string-compare) |
+| [1927-sum-game](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0326-power-of-three](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0326-power-of-three) |
+| [1927-sum-game](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
