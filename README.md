@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0168-excel-sheet-column-title](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0392-is-subsequence) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0326-power-of-three) |
 | [1927-sum-game](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2235-add-two-integers) |
