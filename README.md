@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
 | ------- |
