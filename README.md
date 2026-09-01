@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1927-sum-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
