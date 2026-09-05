@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0344-reverse-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
