@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
