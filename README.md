@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0326-power-of-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0229-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
