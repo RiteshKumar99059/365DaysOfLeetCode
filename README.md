@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0242-valid-anagram) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0392-is-subsequence) |
 ## Recursion
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0046-permutations) |
 ## Counting
 |  |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
