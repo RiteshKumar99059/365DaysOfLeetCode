@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0229-majority-element-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/RiteshKumar99059/365DaysOfLeetCode/tree/master/0078-subsets) |
 ## Counting
 |  |
 | ------- |
