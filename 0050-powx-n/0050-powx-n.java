@@ -16,7 +16,6 @@ public class Solution {
             N /= 2;
         }
         
-        // Invert at the very end to prevent premature precision loss
-        return n < 0 ? 1.0 / ret : ret;
+                return n < 0 ? 1.0 / ret : ret;
     }
 }
